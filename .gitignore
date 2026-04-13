@@ -2,3 +2,4 @@ venv/
 install.sh
 .ipynb_checkpoints
 .env
+.idea/
